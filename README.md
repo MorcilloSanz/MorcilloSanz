@@ -1,5 +1,5 @@
 # About me :rocket:
-* :panda_face: I'm a software developer interested in graphics programming and maths
+* :panda_face: I'm a software developer interested in graphics programming, maths and PDE solving
 * :hammer: Working at TIDOP Research Group, University of Salamanca
 * :beer: I also like beer
 ----
