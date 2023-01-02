@@ -1,5 +1,5 @@
 # About me :rocket:
-* :man_technologist: I'm a software developer interested in graphics programming and maths
+* :man_technologist: I'm a software developer interested in computer graphics and maths
 * :hammer_and_wrench: Working at TIDOP Research Group, University of Salamanca
 * :round_pushpin: Ávila, Spain
 ----
