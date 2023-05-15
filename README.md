@@ -6,4 +6,4 @@
 * :email: Email: amorcillosanz@gmail.com
 * :bird: Twitter: [@MorcilloSanz](https://twitter.com/morcillosanz)
 
-[![MorcilloSanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorcilloSanz)](https://github.com/anuraghazra/github-readme-stats)
+![MorcilloSanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorcilloSanz&count_private=true&show_icobs=true&theme=bluefy)
