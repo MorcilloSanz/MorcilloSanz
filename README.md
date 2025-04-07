@@ -9,4 +9,3 @@ I'm a `software developer` specialized in `graphics programming` and `maths`.
 * :microscope: Computer graphics, applied mathematics and computational physics.
 * :cloud: Classification and segmentation of 3D point clouds using machine and deep learning approaches.
 * :artificial_satellite: Advanced interferometry methods DInSAR.
-* :globe_with_meridians: 3D data visualization.
