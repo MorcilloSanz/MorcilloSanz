@@ -1,4 +1,4 @@
-### :technologist: About me
+### :wave: About me
 
 :microscope: Computer graphics, applied mathematics and computational physics.
 
